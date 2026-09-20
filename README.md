@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Seda Karpat. 
 I graduated from Anadolu University, Faculty of Communication Sciences with a degree in Cinema and Television in 2007, starting my professional career that same year as an assistant sound designer. 
-Over the past 17+ years, I have built extensive hands-on experience across audio post-production for film, advertising, and dubbing—specializing as a Sound Designer, Dialogue Editor, Foley Editor, ADR Recordist, and Voiceover Artist. 
+Over the past 17+ years, I have built extensive hands-on experience across audio post-production for film, advertising, and dubbing—specializing as a Sound Designer, Dialogue Editor, Foley Editor, ADR Recordist & Editor, and Voiceover Artist. 
 I currently deliver end-to-end professional audio services from my home studio.
 <!--
 **sedasalhareket/sedasalhareket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
